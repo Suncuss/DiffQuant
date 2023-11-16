@@ -1,0 +1,1 @@
+docker build -t myoquant -f docker/Dockerfile docker
